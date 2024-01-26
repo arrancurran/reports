@@ -4,7 +4,7 @@
 
 According to Langevin, a paramagnetic colloid will experience a continuous force $F$ due to a magnetic gradient $\.B_x$.
 
-$ m\"x(t) = \mu_x \.B_x - \gamma \.x(t) + \xi $
+$m\"x(t) = \mu_x \.B_x - \gamma \.x(t) + \xi$
 
 Where $\gamma$ is the viscous drag and is equal to $6 \pi \nu a = 2.64\cdot10^{-8}$
 
