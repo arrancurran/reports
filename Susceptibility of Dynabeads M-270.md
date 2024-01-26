@@ -36,7 +36,7 @@ $\therefore \chi_v = {\mu_x \mu_o \over V_p B}$ $= 4.52 \cdot 10^{-14} $,
 
 where $\mu_0 = 1.2566 \cdot 10^{−6} N A^{-2}$ is the vacuum permeability.
 
-$\therefore \chi_v = {4.52 \cdot 10^{-14} \times 1.26 \cdot 10^{−6}  \over 1.1494 \cdot 10^{-17}  \times 19.35 \cdot 10^{-3} }$ $ = 0.25$
+$\therefore \chi_v = {4.52 \cdot 10^{-14} \times 1.26 \cdot 10^{−6}  \over 1.1494 \cdot 10^{-17}  \times 19.35 \cdot 10^{-3} }$ $= 0.25$
 
 Significantly lower than Miranda's result where $\chi_v = 1.03$.
 
