@@ -14,7 +14,7 @@ $\mu_x = {\gamma \.x(t) \over \.B_x} $.
 
 ## Measurments
 
-Setting the coil driver to $1.954 A$ with one cored coil and one empty coil we get $27.3$ and $11.4$ $mT$ on either side of a Hellma cell. So $\.B=1.28mT$ and $B(x=0) = 19.35 mT$, taking $x=0$ to be the centre of the Hellma cell.
+Setting the coil driver to $1.954 A$ with one cored coil and one empty coil we get $27.3$ and $11.4$ $mT$ on either side of a Hellma cell. So $\.B=1.28mT/mm$ and $B(x=0) = 19.35 mT$, taking $x=0$ to be the centre of the Hellma cell.
 
 Sixty minutes of data was taken at $10 Hz$.
 
@@ -64,3 +64,18 @@ Miranda's thesis states the drag coefficient is $6.14 \times 10^{−8}$.
 
 This value of $\gamma$ gives $\chi_v =0.59$.
 
+## Repeat at lower field
+
+## Measurments
+
+Setting the coil driver to $0.192 A$ with one cored coil and one empty coil we get $2.085$ and $0.995$ $mT$ on either side of a Hellma cell. So $\.B=0.0879mT/mm$ and $B(x=0) =  1.540 mT$, taking $x=0$ to be the centre of the Hellma cell.
+
+Two hours of data was taken at $1 Hz$.
+
+For the only colloid in the field of view the particles positions are binned and normalised to give the probability distrubtion of the velocities. A Gaussian fit reveals the average velocity to be $\.x(t) = 0.0226$ $\mu m /s$.
+
+So the magnetic moment is $1.5787 \cdot 10^{-14}$ $A m^2$
+
+## Magnetic Susceptibility
+
+Using Miranda's measured drag coefficient we get $\chi_v =1.1207$ $cf$ $1.03$.
