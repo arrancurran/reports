@@ -1,4 +1,4 @@
-# Power spectrum analysis for quartic potential
+# Power Spectrum Derivation for a Particle in a Trap
 
 ## Power spectrum for quadratic trap
 
